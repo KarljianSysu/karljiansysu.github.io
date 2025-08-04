@@ -8,12 +8,11 @@ He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS)
 - gyjian@mail2.gdut.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+To be appended
 
 ### OtherLink
 - researchgate: https://www.researchgate.net/profile/Guangyu-Jian
-- Team WebSit : https://sges.sysu.edu.cn/geodesy/zh-hans/teacher/241
+- Team WebSite : https://sges.sysu.edu.cn/geodesy/zh-hans/teacher/241
 
 #### Research Interests
 I am currently focusing on the post-processing of GRACE Level-2 data and would welcome further discussions or explanations on the topic.\
