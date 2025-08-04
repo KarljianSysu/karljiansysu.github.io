@@ -1,6 +1,6 @@
 
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Phd - SYSU (Sun Yat-sen University) 
 
 #### Contact
 
@@ -8,7 +8,7 @@ He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS)
 - gyjian@mail2.gdut.edu.cn
 
 #### Education
-To be appended
+To be appended...
 
 ### OtherLink
 - researchgate: https://www.researchgate.net/profile/Guangyu-Jian
@@ -16,7 +16,7 @@ To be appended
 
 #### Research Interests
 I am currently focusing on the post-processing of GRACE Level-2 data and would welcome further discussions or explanations on the topic.\
-All my relevant codes are available on GitHub for reference: https://github.com/GuangyuJian.\
-Feel free to explore them. 
+All my relevant codes are available on GitHub for reference: (https://github.com/GuangyuJian). \
+Feel free to explore them. \
 Best regards, Karl Jian (KJ)
 
