@@ -1,20 +1,31 @@
 
 
 Phd - SYSU (Sun Yat-sen University) 
-#### Profile
 
-I am currently focusing on the post-processing of GRACE Level-2 data and would welcome further discussions or explanations on the topic.\
-Karl Jian (KJ)
+
+### Profile
+
+- For my friends who major in English, I go by Karl Jian (KJ).
+- For my Chinese friends, I use Guangyu Jian (GJ).
+
+#### Research Interests
+
+- 1. I started researching the post-processing of GRACE/GFO Level-2 data \
+(i.e., temporal gravity field products) in 2021 and plan to continue \
+this line of research during my PhD studies. Also, I’d welcome further \
+ discussions on the topic—feel free to reach out.
+- 2. Simulation and post-processing for the NGGM mission, including the TIQNQIN-II Plan at SYSU and the Magic Project for ESA.
+- 3. Periodic signal in Geodesy, such as the Earth's Ratation
+- 4. Geodetic theories from the past to the present
+
 
 #### Contact
-
 - jiangy336@mail2.sysu.edu.cn 
 - gyjian@mail2.gdut.edu.cn
 
 #### Academic part-time job
-
 ##### Reviewer
-- <strong>JG </strong>         (Journal of Geodesy)
+- <strong>JG </strong>          (Journal of Geodesy)
 - <strong>IEEE-JSTAR</strong>   (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)
 - <strong>GJI</strong>          (Geophysical Journal International)
 
@@ -34,7 +45,5 @@ Karl Jian (KJ)
 - ORCID         : https://orcid.org/0000-0002-0676-0612
 - Bilibili      : https://space.bilibili.com/349880947/upload/opus
 
-
-#### Research Interests
 
 
