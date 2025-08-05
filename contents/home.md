@@ -14,7 +14,7 @@ Best regards, Karl Jian (KJ)
 
 #### Academic part-time job
 
-- <strong>J&G </strong>         (Journal of Geodesy)
+- <strong>JG </strong>         (Journal of Geodesy)
 - <strong>IEEE-JSTAR</strong>   (IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing)
 - <strong>GJI</strong>          (Geophysical Journal International)
 
