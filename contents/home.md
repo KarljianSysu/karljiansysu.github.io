@@ -22,10 +22,10 @@ Karl Jian (KJ)
 
 #### Educational Background
 
-Doctor  : 09/2024–now,      SYSU,   Remote Sensing Science and Technology.  (Advisor: Prof. Zhong Min)
-Master  : 09/2021–06/2024,  GDUT,   Surveying & Mapping Sci. & Technol.     (Advisor: Prof. Xu Min)
-Worked  : 09/2020–06/2021,  ...,    (tired... ).
-Bachelor: 09/2016–06/2020,  GDUT.,  Surveying & Mapping Eng.
+- Doctor  : 09/2024–now,      SYSU,   Remote Sensing Science and Technology.  (Advisor: Prof. Zhong Min)
+- Master  : 09/2021–06/2024,  GDUT,   Surveying & Mapping Sci. & Technol.     (Advisor: Prof. Xu Min)
+- Worked  : 09/2020–06/2021,  ...,    (tired... ).
+- Bachelor: 09/2016–06/2020,  GDUT.,  Surveying & Mapping Eng.
 
 ### OtherLink
 
