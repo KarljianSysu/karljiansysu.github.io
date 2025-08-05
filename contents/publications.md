@@ -1,16 +1,14 @@
 #### Submitted
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+To be appended
 
-#### Published
+#### Published 
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+sorted by Date
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Yunlong Wu, Yun Xiao, Chuang Xu*, <strong>Guangyu Jian*</strong>, Guodong Xu, Sulan Liu, Unveiling North–South stripe patterns in the GRACE gravity field using dimensionality reduction, Geophysical Journal International</strong>, Volume 242, Issue 2, August 2025, ggaf235, https://doi.org/10.1093/gji/ggaf235. [[Code]](https://github.com/GuangyuJian/GRACE_Filter_VMDS)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+<strong>Guangyu Jian</strong>,  Fang Zou*, Chuang Xu, Zhengwen Yan, Multivariate variational mode decomposition to extract the stripe noise in GRACE harmonic coefficients, <strong>Geophysical Journal International</strong>, Volume 238, Issue 3, September 2024, Pages 1742–1754, https://doi.org/10.1093/gji/ggae241. [[Code]](https://github.com/GuangyuJian?tab=repositories)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+<strong>Guangyu Jian</strong>, Chuang Xu*, Fang Zou, Bo Huang, A novel GRACE reconstructive filter to extract the mass changes in Madagascar, <strong>Geophysical Journal International</strong>, Volume 235, Issue 2, November 2023, Pages 1493–1503, https://doi.org/10.1093/gji/ggad316. [[Code]](To be appended)
 
