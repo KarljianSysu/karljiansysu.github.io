@@ -16,7 +16,7 @@ this research.
 - 2. Simulation and post-processing for the NGGM mission, including the TIQNQIN-II Plan at SYSU and the Magic Project for ESA.
 - 3. Periodic signal in Geodesy, such as the Earth's Ratation
 - 4. Geodetic theories from the past to the present
-
+- 5. <strong> Line-of-Sight Gravity Difference (LGD)</strong> methodology and its application to the NGGM mission, focusing on high-temporal-resolution mass change inversion and flood monitoring.
 
 #### Contact
 - jiangy336@mail2.sysu.edu.cn 

@@ -1,7 +1,7 @@
 #### Submitted
 
 ###### solid foundation about theory for well-transfer function 
-- <strong>Jian G Y, Wang C Q, Zhu Z T, Zhong M*, Feng W*</strong> (2026) Transfer Function from Inter-satellite Ranging Acceleration to Line-of-Sight Gravity Difference for Collinear Low-Low Satellite-to-Satellite Tracking Gravity Missions. <strong>SSRN</strong>. https://ssrn.com/abstract=7014378
+- <strong>Jian G Y</strong> , Wang C Q, Zhu Z T, Zhong M*, Feng W*(2026) Transfer Function from Inter-satellite Ranging Acceleration to Line-of-Sight Gravity Difference for Collinear Low-Low Satellite-to-Satellite Tracking Gravity Missions. <strong>SSRN</strong>. https://ssrn.com/abstract=7014378
 
 To be appended
 
@@ -12,7 +12,7 @@ sorted by Date
 ##### 2026
 
 ######  Constellation design with Next generation gravity mission
-- <strong>Jian G Y, Wang C Q, Zhu Z T, Li B, Zhong M*, Feng W*</strong> (2026) A Multiple Inclination Orbit Constellation With High-Low Satellite-to-Satellite Tracking for Weekly Gravity Field Recovery. <strong>IEEE J Sel Top Appl Earth Observ Remote Sens</strong> 19:12835–12848. https://doi.org/10.1109/JSTARS.2026.3683095
+- <strong>Jian G Y</strong> , Wang C Q, Zhu Z T, Li B, Zhong M*, Feng W*(2026) A Multiple Inclination Orbit Constellation With High-Low Satellite-to-Satellite Tracking for Weekly Gravity Field Recovery. <strong>IEEE J Sel Top Appl Earth Observ Remote Sens</strong> 19:12835–12848. https://doi.org/10.1109/JSTARS.2026.3683095
 
 ######  Chinese Gravity Satellite Mission (Chinese Gravimetry Augment and Mass Change Exploring Mission, ChiGAM)
 - Xiong Y H, <strong>Jian G Y</strong>, Wang C Q, Yang M, Ran J J, Xiao Y, Zhong M*, Feng W* (2026) Global Terrestrial Water Storage anomalies based on Chinese Gravity Satellite Mission. <strong>Chinese Journal of Geophysics</strong> 69(8):3510–3524. https://doi.org/10.6038/cjg2025T0358 [[Link]](http://www.geophy.cn/article/doi/10.6038/cjg2025T0358)
